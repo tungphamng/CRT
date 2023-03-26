@@ -5,7 +5,7 @@ Suite Teardown                  End suite
 Library                         DateTime
 
 *** Variables ***
-${unique_name}  
+${unique_name}    
 
 
 *** Test Cases ***
