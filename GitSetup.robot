@@ -2,10 +2,10 @@
 Resource                        common.robot
 Suite Setup                     Setup Browser
 Suite Teardown                  End suite
-Library                         Date Time
+Library                         DateTime
 
 *** Variables ***
-${unique_name}  currentTimestamp
+${unique_name}  
 
 
 *** Test Cases ***
